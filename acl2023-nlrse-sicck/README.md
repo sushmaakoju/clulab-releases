@@ -17,6 +17,10 @@ Derived from <a href="https://marcobaroni.org/composes/sick.html">SICK Dataset</
 ## Note
 The results in this version differ from the results in the published paper due to: (a) minor bug fixes, and (b) averaging results across five different random seeds. Please note that the different results reported in this version do not change any of the observations in the published paper.
 
+**Author's note:** I have received inquiries if entire data analysis until before fine tuning was done by me. The data analysis was done by me, out of interest in understanding the data and I conducted this involuntarily by applying my Data Science and Analysis skills and my interest for understanding the language and the data. The data analyses include:
+- Programmatic data analysis on the data and annotator analysis and post-hoc analysis.
+- Manual data analyses on the linguistic and lexical analysis such as <a href"https://github.com/sushmaakoju/clulab-releases/blob/master/acl2023-nlrse-sicck/data/original-sick-examples/sick-data-compositionality.csv">Compositional aspects of SICK dataset</a>.
+
 ## Code
 
 Author: sushmaakoju@arizona.edu
