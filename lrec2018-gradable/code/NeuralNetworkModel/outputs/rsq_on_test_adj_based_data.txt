@@ -1,2 +1,0 @@
-Epoch 	 Train 		 Dev 
-0.333257750406
